@@ -39,5 +39,4 @@ generic-service:
 
 
 generic-prometheus-alerts:
-  alertSeverity: hmpps_alerts_nonprod
   businessHoursOnly: true
